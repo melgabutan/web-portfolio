@@ -1,14 +1,16 @@
 body {
-  background-color: #eaf6f6;
+  background-color: #eef6f6;
+  margin-top: 0;
 }
 
 hr {
-  width: 4%;
+  border-color: gray;
   border-style: dotted none none;
   border-width: 7px;
-  border-color: gray;
+  width: 4%;
 }
 
+/* ----- TEXTS ----- */
 h1 {
   color: #66bfbf;
 }
